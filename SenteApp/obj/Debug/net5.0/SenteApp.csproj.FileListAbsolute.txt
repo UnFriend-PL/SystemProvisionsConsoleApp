@@ -1,0 +1,16 @@
+C:\Users\szymo\OneDrive\Pulpit\sente\SenteApp\bin\Debug\net5.0\SenteApp.exe
+C:\Users\szymo\OneDrive\Pulpit\sente\SenteApp\bin\Debug\net5.0\SenteApp.deps.json
+C:\Users\szymo\OneDrive\Pulpit\sente\SenteApp\bin\Debug\net5.0\SenteApp.runtimeconfig.json
+C:\Users\szymo\OneDrive\Pulpit\sente\SenteApp\bin\Debug\net5.0\SenteApp.runtimeconfig.dev.json
+C:\Users\szymo\OneDrive\Pulpit\sente\SenteApp\bin\Debug\net5.0\SenteApp.dll
+C:\Users\szymo\OneDrive\Pulpit\sente\SenteApp\bin\Debug\net5.0\SenteApp.pdb
+C:\Users\szymo\OneDrive\Pulpit\sente\SenteApp\obj\Debug\net5.0\SenteApp.csproj.AssemblyReference.cache
+C:\Users\szymo\OneDrive\Pulpit\sente\SenteApp\obj\Debug\net5.0\SenteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szymo\OneDrive\Pulpit\sente\SenteApp\obj\Debug\net5.0\SenteApp.AssemblyInfoInputs.cache
+C:\Users\szymo\OneDrive\Pulpit\sente\SenteApp\obj\Debug\net5.0\SenteApp.AssemblyInfo.cs
+C:\Users\szymo\OneDrive\Pulpit\sente\SenteApp\obj\Debug\net5.0\SenteApp.csproj.CoreCompileInputs.cache
+C:\Users\szymo\OneDrive\Pulpit\sente\SenteApp\obj\Debug\net5.0\SenteApp.dll
+C:\Users\szymo\OneDrive\Pulpit\sente\SenteApp\obj\Debug\net5.0\refint\SenteApp.dll
+C:\Users\szymo\OneDrive\Pulpit\sente\SenteApp\obj\Debug\net5.0\SenteApp.pdb
+C:\Users\szymo\OneDrive\Pulpit\sente\SenteApp\obj\Debug\net5.0\SenteApp.genruntimeconfig.cache
+C:\Users\szymo\OneDrive\Pulpit\sente\SenteApp\obj\Debug\net5.0\ref\SenteApp.dll
